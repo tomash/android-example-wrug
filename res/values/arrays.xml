@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="shapes">
+        <item>Circle</item>
+        <item>Square</item>
+        <item>Line</item>
+    </string-array>
+
+</resources>
