@@ -1,0 +1,16 @@
+Example Android application presented live (written semi-live, i.e. in form of gitorial with explanation during the talk) at 2009-12 WRUG (Warsaw Ruby Users Group) meeting.
+
+You can find the slides from the talk (in polish) at the meeting site ("project homepage").
+
+Basic features, like "Hello World" and (most difficult step when learning Android API) spawning second activity with data exchange and drawing custom shapes.
+
+It is a gitorial with 4 stages, named "stage1", "stage2" etc.
+You can figure out the rest with a bit of basic git-fu.
+
+Feel free to use it as a starting point for writing your first Android app.
+
+License: BSD / Public Domain / Whatever The Fuck You Want To Do With It license -- choose one
+
+by Tomek "Tomash" Stachewicz
+http://github.com/tomash
+http://tomash.wrug.eu
